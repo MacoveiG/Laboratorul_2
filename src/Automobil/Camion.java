@@ -1,3 +1,5 @@
+package Automobil;
+
 public class Camion extends Automobil{
     protected String culoare;
     protected int pretRecomandat = 50000;

@@ -1,3 +1,5 @@
+package Automobil;
+
 public class CamionAlb extends Camion{
     private int pretInRegiune;
 

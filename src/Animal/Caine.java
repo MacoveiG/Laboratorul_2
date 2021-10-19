@@ -1,8 +1,10 @@
+package Animal;
+
 public class Caine extends Animal {
     private final String rasa;
 
     public Caine(String culoare, int pret, int varsta, String rasa) {
-        super("Caine", culoare, pret, varsta);
+        super("Animal.Caine", culoare, pret, varsta);
         this.rasa = rasa;
     }
 

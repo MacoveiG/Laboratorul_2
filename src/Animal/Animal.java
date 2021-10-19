@@ -1,3 +1,5 @@
+package Animal;
+
 public class Animal {
     protected String tip;
     protected String culoare;
@@ -37,7 +39,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "Animal.Animal{" +
                 "tip='" + tip + '\'' +
                 ", culoare='" + culoare + '\'' +
                 ", pret=" + pret + " lei" +

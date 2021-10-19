@@ -1,8 +1,10 @@
+package Animal;
+
 public class Pisica extends Animal {
     private int greutate;
 
     public Pisica(String culoare, int pret, int varsta, int greutate) {
-        super("Pisica", culoare, pret, varsta);
+        super("Animal.Pisica", culoare, pret, varsta);
         this.greutate = greutate;
     }
 

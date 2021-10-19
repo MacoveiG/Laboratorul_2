@@ -1,3 +1,8 @@
+import Animal.Caine;
+import Animal.Iepure;
+import Animal.Pisica;
+import Automobil.CamionAlb;
+
 public class Main {
     public static void main(String[] args) {
 

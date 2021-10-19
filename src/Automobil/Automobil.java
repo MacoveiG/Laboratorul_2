@@ -1,3 +1,5 @@
+package Automobil;
+
 public class Automobil {
     protected String tip;
 
@@ -11,7 +13,7 @@ public class Automobil {
 
     @Override
     public String toString() {
-        return "Automobil{" +
+        return "Automobil.Automobil{" +
                 "tip='" + tip + '\'';
     }
 }

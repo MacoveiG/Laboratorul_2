@@ -1,7 +1,9 @@
+package Animal;
+
 public class Iepure extends Animal {
 
     public Iepure(String culoare, int pret, int varsta) {
-        super("Iepure", culoare, pret, varsta);
+        super("Animal.Iepure", culoare, pret, varsta);
     }
 
     @Override

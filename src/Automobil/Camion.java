@@ -1,9 +1,9 @@
 package Automobil;
 
 public class Camion extends Automobil{
-    protected String culoare;
-    protected int pretRecomandat = 50000;
-    protected int anul;
+    private String culoare;
+    private int pretRecomandat = 50000;
+    private int anul;
 
     public Camion(String culoare, int anul) {
         super("CAMION");

@@ -1,10 +1,10 @@
 package Animal;
 
 public class Animal {
-    protected String tip;
-    protected String culoare;
-    protected int pret;
-    protected int varsta;
+    private String tip;
+    private String culoare;
+    private int pret;
+    private int varsta;
 
     public Animal(String tip, String culoare, int pret, int varsta) {
         this.tip = tip;

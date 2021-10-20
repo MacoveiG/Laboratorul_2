@@ -1,7 +1,7 @@
 package Automobil;
 
 public class Automobil {
-    protected String tip;
+    private String tip;
 
     public Automobil(String tip) {
         this.tip = tip;
